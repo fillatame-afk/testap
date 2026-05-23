@@ -1,0 +1,6 @@
+{
+  "name": "Weather",
+  "description": "A 5-day weather forecast application powered by OpenWeatherMap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
